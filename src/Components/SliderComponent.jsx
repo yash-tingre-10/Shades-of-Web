@@ -72,8 +72,8 @@ const SliderComponent = () => {
                 alt={`slide-${data.id}`}
                 className="w-full h-full object-cover rounded-none border-none"
               />
-              {/* Vignette Effect (Starts from Bottom, Covers 20%) */}
-              <div className="absolute bottom-0 left-0 w-full h-[20%] bg-gradient-to-t from-black/60 to-transparent"></div>
+              {/* Vignette Effect (Starts from Bottom, Covers 30%) */}
+              <div className="absolute bottom-0 left-0 w-full h-[30%] bg-gradient-to-t from-black/60 to-transparent"></div>
             </div>
             {/* TEXT OVERLAY (Centered at Bottom, On Image) */}
             <div className="font-[Martel Sans] font-semibold text-[26px] max-md:text-lg absolute bottom-4 left-1/2 -translate-x-1/2 text-white px-4 py-2 text-center w-max uppercase">
