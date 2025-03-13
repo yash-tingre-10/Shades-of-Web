@@ -6,8 +6,9 @@ This is a React-based project that integrates a dynamic image slider with an API
 
 ## 📌 Features
 
+- **Global Context for State Management:** Uses React's Context API to manage API responses and loading states across components.
 - **Dynamic Image Slider:** Uses `react-slick` to display a carousel of images.
-- **API Integration:** Fetches community data from an external API.
+- **API Integration with Proxy:** Fetches community data through a proxy to handle CORS issues and improve security.
 - **Custom Hooks:** Implements a reusable `useFetch` hook for API requests.
 - **Responsive Design:** Optimized for desktop and mobile views.
 - **Vignette Effect:** Enhances images with a bottom vignette overlay.
