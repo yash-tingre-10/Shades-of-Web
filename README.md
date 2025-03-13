@@ -21,8 +21,4 @@ This is a React-based project that integrates a dynamic image slider with an API
 - **Tailwind CSS** - Styling
 - **React Icons** - UI Enhancements
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
+Made with 🍉 by Yash Tingre
